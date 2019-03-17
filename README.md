@@ -30,4 +30,4 @@ Password: 11111111      (8x1)
 * Connect to the Internet"
 * Test internet connection
 * and run payloads as usually (browser). 
-#### use [NodeMCU-PyFlasher 3.0](https://github.com/marcelstoer/nodemcu-pyflasher/releases) to Upload firmware in file.bin format. 
+#### use [NodeMCU-PyFlasher 3.0](https://github.com/marcelstoer/nodemcu-pyflasher/releases) to flash your ESP8266 firmware. 
